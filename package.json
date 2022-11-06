@@ -1,5 +1,6 @@
 {
 	"author":"mohammad",
+	"description":"make a simple web page",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
