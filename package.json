@@ -3,6 +3,7 @@
 	"description":"make a simple web page",
 	"keywords":["descriptive","freecodecamp","words"],
 	"name": "fcc-learn-npm-package-json",
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
